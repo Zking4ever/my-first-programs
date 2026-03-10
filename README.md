@@ -8,7 +8,7 @@ Although simple, these projects helped me understand core programming concepts a
 
 ---
 
-# 📂 Projects Included
+# Early experimental Projects
 
 ## 1️⃣ C++ Bank System
 A simple command-line banking system written in C++.
@@ -25,7 +25,6 @@ Concepts learned:
 - Simple system design
 - User input handling
 
----
 
 ## 2️⃣ First Website UI
 My first static website created using HTML and CSS.
@@ -44,8 +43,6 @@ Focus:
 
 This project helped me understand how websites are structured and styled.
 
----
-
 ###  First PHP + MySQL Project
 My first backend experiment connecting a website to a database. After creating the static site i connected it to a database to make it fullt functional
 
@@ -59,7 +56,6 @@ Concepts learned:
 - Database connections
 - Basic authentication logic
 
----
 
 ## 3️⃣ C++ Website Generator (Experimental Tool)
 
@@ -85,7 +81,6 @@ This repository exists to:
 
 Every developer starts somewhere — these were my first steps.
 
----
 
 # 🛠 Technologies Used
 
@@ -95,7 +90,6 @@ Every developer starts somewhere — these were my first steps.
 - PHP
 - MySQL
 
----
 
 # 📈 What I Learned
 
@@ -109,7 +103,6 @@ From these projects I learned:
 
 These small experiments later became the **foundation for more advanced projects**.
 
----
 
 # 🧠 Reflection
 
